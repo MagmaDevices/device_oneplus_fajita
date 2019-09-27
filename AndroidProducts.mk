@@ -16,3 +16,6 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/gzosp_fajita.mk
+
+COMMON_LUNCH_CHOICES := \
+    gzosp_fajita-userdebug
