@@ -15,7 +15,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/gzosp_fajita.mk
+    $(LOCAL_DIR)/magma_fajita.mk
 
 COMMON_LUNCH_CHOICES := \
-    gzosp_fajita-userdebug
+    magma_fajita-userdebug
